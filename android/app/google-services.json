@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470825851881",
+    "project_id": "unimar-ead-foto",
+    "storage_bucket": "unimar-ead-foto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470825851881:android:714fe656e64a5e22560978",
+        "android_client_info": {
+          "package_name": "com.mycompany.unimar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHh_X8CtzncbUS1omBLVz7ii7yXuQb1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
